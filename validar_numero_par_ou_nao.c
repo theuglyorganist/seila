@@ -11,7 +11,7 @@ Write your code in this editor and press "Run" button to compile and execute it.
 int main()
 {
     int a;
-    printf("Escreva um número inteiro:");
+    printf("Escreva um número inteiroKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK\nKKKKKKKKKKKKKKKKKKKKKKKKKKK:");
     scanf("%i", &a);
     if (a%2 == 0)
     {
